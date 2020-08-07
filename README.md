@@ -1,0 +1,2 @@
+# Earthquake-Detection
+Earthquake is a natural phenomenon, which can cause large spread damage due to falling of buildings and after shocks. Seismos Alarm is a way of detecting the earthquake as quickly as possible. The seismos alarm has buzzer which will alarm whenever there is a movement in the ground. The setup of the system is very easy to install and since the component used is very less therefore easy to maintain
